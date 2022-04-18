@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = b00755736@essec.edu
+	name = Elsa Bardin
